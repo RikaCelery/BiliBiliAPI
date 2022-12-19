@@ -1,4 +1,4 @@
-package org.celery.bilibili.serializers
+package org.celery.bilibili.model.serializers
 
 import kotlinx.serialization.KSerializer
 import kotlinx.serialization.builtins.ListSerializer

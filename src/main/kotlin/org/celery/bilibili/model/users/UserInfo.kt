@@ -4,7 +4,7 @@ package org.celery.bilibili.model.users
 import kotlinx.serialization.Contextual
 import kotlinx.serialization.SerialName
 import kotlinx.serialization.Serializable
-import org.celery.bilibili.serializers.IntToBooleanSerializer
+import org.celery.bilibili.model.serializers.IntToBooleanSerializer
 
 /**
  * for http://api.bilibili.com/x/space/acc/info

@@ -3,7 +3,7 @@ package org.celery.bilibili.model.vidoes.info
 
 import kotlinx.serialization.SerialName
 import kotlinx.serialization.Serializable
-import org.celery.bilibili.serializers.VideoPagesSerializer
+import org.celery.bilibili.model.serializers.VideoPagesSerializer
 
 
 @Serializable(VideoPagesSerializer::class)
